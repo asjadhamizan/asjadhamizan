@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working web development projets and are doing my internship now.
+- 🔭 I’m currently working on web development projets and are doing my internship now.
 - 🌱 I’m currently learning simpless web project and blockchain fundamentals!.
